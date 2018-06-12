@@ -40,6 +40,7 @@ c_mat = [c21(1,1)+c31(1,1), c21(1,2)+c31(1,2), c12(1,1), c12(1,2), c23(1,1), c23
 
 %numbers of iteration (tspan)
 iteration = 199;
+
 %% Formation Control using Attractive Potential Function (APF) (ODE45)
 
 interval = 0.01; %time interval
