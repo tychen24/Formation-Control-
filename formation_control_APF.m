@@ -1,4 +1,4 @@
-% Formation Control and Obstacle Advoidance strategy 
+% Formation Control using attractive potential function
 % wih APF and RPF, Ting-Yang (Gordon) Chen, University of Washington, June 2018
 
 clear all; close all; clc;
